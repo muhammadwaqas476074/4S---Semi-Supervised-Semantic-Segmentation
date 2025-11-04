@@ -171,4 +171,5 @@ These findings open promising directions for further research in weakly-supervis
 - Training Time: ~2 hours per experiment on NVIDIA Quadro3200 PU
 - Dataset: 8 tiles with 63 total images, 6 land cover classes Source [https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery]
 
-![1762235103234](image/Report/1762235103234.png)
+![1762235103234](1762235103234.png)
+
